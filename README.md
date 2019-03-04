@@ -13,3 +13,4 @@
 
 - core
 - about
+- blog
