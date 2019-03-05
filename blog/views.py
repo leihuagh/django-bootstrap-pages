@@ -7,3 +7,7 @@ def index(request):
 
 def list_view(request):
     return render(request, 'blog/list.html', {})
+
+
+def detail_view(request):
+    return render(request, 'blog/detail.html', {})
