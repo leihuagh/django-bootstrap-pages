@@ -14,3 +14,4 @@
 - core
 - about
 - blog
+- ecommerce
